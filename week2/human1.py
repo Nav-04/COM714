@@ -43,4 +43,4 @@ class Human:
             self.energy = potential_energy
             return True
         else:
-            return Falsegitgit
+            return False
